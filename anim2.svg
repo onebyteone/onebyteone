@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .my-element {
+      animation: spin 4s linear infinite; /* Infinite loop */
+      transform-origin: center;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+  <circle class="my-element" cx="50" cy="50" r="10" fill="blue"/>
+</svg>
