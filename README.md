@@ -1,12 +1,13 @@
 <div align="center">
 
 <!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Miguel%20Flores%20👋&fontSize=42&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20|%20Diseño%20Digital%20|%20Pasión%20por%20la%20Tecnología&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="/example.svg"/>
 
-<!-- Typing SVG -->
+<!-- Typing SVG
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Construyendo+el+futuro;Transformando+ideas;Aprendiendo+sin+parar" alt="Typing SVG" /></a>
 
-</div>
+</div> -->
 
 ---
 
